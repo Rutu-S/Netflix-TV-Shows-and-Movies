@@ -57,3 +57,4 @@ Insights from the dashboard enable launching region‑specific promotions. For i
 
 
 Screenshot
+https://github.com/Rutu-S/Netflix-TV-Shows-and-Movies/blob/main/Screenshot-Netflix.png

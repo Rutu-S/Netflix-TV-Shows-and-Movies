@@ -1,4 +1,4 @@
-# Netflix-Movies-and-TV-Shows Dashboard
+# Netflix-TV-Shows-and-Movies Dashboard
 
 Netflix TV Shows and Movies Dashboard provides a compact, high-level view of Netflix’s entire catalog—showing total statistics (≈ 8.8 K titles, 19 rating categories, 517 genres across 749 countries)—alongside breakdowns of genre popularity, rating distribution, and content type. It also highlights the leading producer countries (with the U.S., India, UK, etc.), the share of movies vs. TV shows, and how releases have spiked particularly in recent years.
 
